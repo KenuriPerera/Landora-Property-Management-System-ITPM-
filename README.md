@@ -1,8 +1,8 @@
-🏡 Landora – Property Management System
+**🏡 Landora – Property Management System**
 
 A MERN stack (MongoDB, Express.js, React.js, Node.js) web application for managing properties efficiently.
 
-🚀 Features
+**🚀 Features**
 
 🏠 Property Management – Add, edit, delete, and search properties.
 
@@ -14,7 +14,7 @@ A MERN stack (MongoDB, Express.js, React.js, Node.js) web application for managi
 
 🛠️ Tech Stack
 
-Frontend
+**Frontend**
 
 ⚛️ React.js
 
@@ -22,7 +22,7 @@ Frontend
 
 🔗 Axios
 
-Backend
+**Backend**
 
 🟢 Node.js
 
@@ -32,7 +32,7 @@ Backend
 
 🔑 JWT Authentication
 
-Other Tools
+**Other Tools**
 
 ☁️ Cloudinary (Image Uploads)
 
@@ -59,12 +59,12 @@ Landora-Property-Management-System/
 ├── README.md
 └── package.json
 
-⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 1️⃣ Clone the repository
 git clone https://github.com/KenuriPerera/Landora-Property-Management-System.git
 cd Landora-Property-Management-System
 
-2️⃣ Install dependencies
+**2️⃣ Install dependencies**
 
 For backend:
 
@@ -72,12 +72,12 @@ cd backend
 npm install
 
 
-For frontend:
+**For frontend:**
 
 cd ../frontend
 npm install
 
-3️⃣ Create environment variables
+**3️⃣ Create environment variables**
 
 Create a .env file inside backend/ with the following:
 
@@ -87,7 +87,7 @@ CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
-4️⃣ Run the app
+**4️⃣ Run the app**
 
 Backend:
 
@@ -100,9 +100,3 @@ Frontend:
 cd frontend
 npm start
 
-
-The app will run on:
-
-Frontend: http://localhost:3000
-
-Backend: http://localhost:5000
