@@ -13,7 +13,7 @@ A MERN stack (MongoDB, Express.js, React.js, Node.js) web application for managi
 
 📱 Responsive UI using React + Material UI.
 
-🛠️ Tech Stack
+🛠️ Tech Stack - ⚛️ React + 🚂 Express + 🟢 Node + 🍃 MongoDB = MERN
 
 **Frontend**
 
